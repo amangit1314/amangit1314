@@ -22,11 +22,10 @@
 <a href="https://twitter.com/soni07_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soni07_aman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/aman-soni1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aman-soni1" height="30" width="40" /></a>
 <a href="https://instagram.com/aman_b0i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman_b0i" height="30" width="40" /></a>
-  <a href="https://web.telegram.org/#/im>
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://web.telegram.org/#/im><img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="soni07_aman" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/channel/UCBq0CR3g1oYIHnML9M1wRYw/">
-  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="soni07_aman" height="30" width="40" />/>
+  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="soni07_aman" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
