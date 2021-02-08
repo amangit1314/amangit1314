@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA in Java, Flutter, AR VR and related stuff to this.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gitaman8481](https://github.com/gitaman8481)
+- 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
 - 💬 Ask me about **Kotlin, Java, Android, Flutter and Firebase.**
 
@@ -26,7 +26,7 @@
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCBq0CR3g1oYIHnML9M1wRYw/">
-  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="soni07_aman" height="30" width="40" />/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
