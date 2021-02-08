@@ -26,7 +26,7 @@
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Aman's Youtube" width="22px" src="https://www.youtube.com/channel/UCBq0CR3g1oYIHnML9M1wRYw" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
