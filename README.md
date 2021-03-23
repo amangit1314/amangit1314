@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
-- 💬 Ask me about **Kotlin, Java, Android, Flutter and Firebase.**
+- 💬 Ask me about **Java, Flutter Application Development, Augmented and Virtual Reality.**
 
-- 📫 How to reach me **din0b3a5t@gmail.com**
+- 📫 How to reach me **gitaman8481@gmail.com**
 
-- ⚡ Fun fact **You know Dhoni and Sachin both got a duck on their debut.**
+- ⚡ Fun fact **You know Dhoni get runout at bot of his debut and last innings .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
