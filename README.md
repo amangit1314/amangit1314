@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AR VR & Flutter**
 
-- 🌱 I’m currently learning **DSA in Java, Flutter, AR VR and related stuff to this.**
+- 🌱 I’m currently learning **DSA in Java, Flutter, Augmented Reality and Virtual Reality.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
