@@ -33,6 +33,9 @@
 <a href="https://www.sql.com/" target="_blank"> 
   <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40"     height="40"/> 
 </a>
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://www.pinclipart.com/picdir/middle/519-5199224_postgresql-logo-png-transparent-clipart.png" alt="postgresql" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&show_icons=true&locale=en&layout=compact" alt="gitaman8481" /></p>
