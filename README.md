@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/soni07_aman" target="blank"><img src="https://img.shields.io/twitter/follow/soni07_aman?logo=twitter&style=for-the-badge" alt="soni07_aman" /></a> </p>
 
-- 🔭 I’m currently working on **AR VR & Flutter**
+- 🔭 I’m currently working on **Flutter Developer**
 
 - 🌱 I’m currently learning **DSA in Java, Flutter, Augmented Reality and Virtual Reality.**
 
