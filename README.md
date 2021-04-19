@@ -6,6 +6,7 @@
 <p align="left"> 
   <a href="https://twitter.com/soni07_aman" target="blank"><img src="https://img.shields.io/twitter/follow/soni07_aman?logo=twitter&style=for-the-badge" alt="soni07_aman" /></a>
   <a href="https://github.com/gitaman8481"><img src="https://img.shields.io/github/followers/gitaman8481?logo=GitHub&style=for-the-badge"alt="gitaman8481" /></a> 
+  <a href="https://instagram.com/aman_b0i"><img src="https://img.shields.io/instagram/followers/aman_b0i?logo=Instagram&style=for-the-badge"alt="aman_b0i" /></a>
 </p>
 
 - 🔭 I’m currently working on **Flutter Developer**
