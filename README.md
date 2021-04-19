@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481" alt="gitaman8481" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soni07_aman" target="blank"><img src="https://img.shields.io/twitter/follow/soni07_aman?logo=twitter&style=for-the-badge" alt="soni07_aman" /></a> </p>
-![GitHub followers](https://img.shields.io/github/followers/gitaman8481?logo=GitHub&style=for-the-badge)
+<p align="left"> <a href="https://github.com/gitaman8481"><img src="https://img.shields.io/github/followers/gitaman8481?logo=GitHub&style=for-the-badge"alt="gitaman8481" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Developer**
 
