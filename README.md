@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gitaman8481@gmail.com**
 
-- ⚡ Fun fact **You know Dhoni get runout at bot of his debut and last innings .**
+- ⚡ Fun fact **You know Dhoni get runout at both of his debut and last innings .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,8 +43,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZDrORj8t6DH-_TTY6u1KkZV6BzpdVp6AKA&usqp=CAU" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-
-              purple-class.png" alt="csharp" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://dart.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -59,12 +58,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank"> 
-   <img src="https://spng.subpng.com/20180331/zoe/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6ced4621.2413059815224699969719.jpg" alt="java"
-        width="40" height="40"/> 
+   <img src="https://spng.subpng.com/20180331/zoe/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6ced4621.2413059815224699969719.jpg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40"
-       height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://kotlinlang.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -85,8 +82,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
   <a href="https://www.sql.com/" target="_blank"> 
-    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40"
-         height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.pinclipart.com/picdir/middle/519-5199224_postgresql-logo-png-transparent-clipart.png" alt="postgresql" width="40" height="40"/> 
