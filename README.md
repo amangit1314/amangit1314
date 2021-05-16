@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Flutter Developer**
 
-- 🌱 I’m currently learning **Augmented Reality and Virtual Reality.**
+- 🌱 I’m currently learning **Flutter Industrial Work.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
-- 💬 Ask me about **Java, Flutter, Android, Augmented and Virtual Reality.**
+- 💬 Ask me about **Java, Flutter, Firebase, DSA, Node.js, API, Android Development.**
 
 - 📫 How to reach me **gitaman8481@gmail.com**
 
