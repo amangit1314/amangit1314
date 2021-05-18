@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Soni</h1>
+<h1 align="center">Hi 👋 , I'm Aman Soni</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481" alt="gitaman8481" /></a> </p>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gitaman8481@gmail.com**
 
-- ⚡ Fun fact **You know Dhoni get runout at both of his debut and last innings .**
+- ⚡ Fun fact **You know Dhoni & who get runout at both of his debut and last innings .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,6 +88,7 @@
     <img src="https://www.pinclipart.com/picdir/middle/519-5199224_postgresql-logo-png-transparent-clipart.png" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
