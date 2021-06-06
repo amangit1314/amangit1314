@@ -77,10 +77,7 @@
   </a> 
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://www.sql.com/" target="_blank"> 
     <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
   </a>
