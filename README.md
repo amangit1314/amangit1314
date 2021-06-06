@@ -38,13 +38,7 @@
   </a>  
        <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>                                                                                               
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZDrORj8t6DH-_TTY6u1KkZV6BzpdVp6AKA&usqp=CAU" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" alt="csharp" width="40" height="40"/> 
-  </a> 
+  </a>                                                                                                
   <a href="https://dart.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a>  
@@ -64,17 +58,24 @@
   <a href="https://kotlinlang.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
+                                                                                                                     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZDrORj8t6DH-_TTY6u1KkZV6BzpdVp6AKA&usqp=CAU" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" alt="csharp" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>  
+    
   <a href="https://www.sql.com/" target="_blank"> 
     <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.pinclipart.com/picdir/middle/519-5199224_postgresql-logo-png-transparent-clipart.png" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
 </p>
 
