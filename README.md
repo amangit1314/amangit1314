@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
-- 💬 Ask me about **Java, Flutter, Firebase, DSA, Node.js, API, Android Development.**
+- 💬 Ask me about **Java, Flutter, Firebase, DSA, Django, MongoDB, API Development, Android Development.**
 
 - 📫 How to reach me **gitaman8481@gmail.com**
 
@@ -74,7 +74,10 @@
   </a>
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5M-uYPdmVWNPTbhSbSUxpdeJ0MDDxrV9kHWjDdyOLdvZDWBpkwEQvEi3N5W-xzd36xs&usqp=CAU" alt="unity" width="40" height="40"/> 
-  </a>                                                                                                      
+  </a>  
+  <a href="https://www.sqlite.com/" target="_blank"> 
+    <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
+  </a>
 </p>
 
 
