@@ -52,30 +52,19 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
-   <img src="https://spng.subpng.com/20180331/zoe/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6ced4621.2413059815224699969719.jpg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZDrORj8t6DH-_TTY6u1KkZV6BzpdVp6AKA&usqp=CAU" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+   <img src="https://qph.fs.quoracdn.net/main-qimg-317f4ff0db8d0ba328fc6d627af72d89" alt="java" width="40" height="40"/> 
+  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.sql.com/" target="_blank"> 
-    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
-  </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="sql" width="40" height="40"/> 
+  </a>                                                                                                                                                                             <a href="https://www.sql.com/" target="_blank"> 
+    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
   </a>
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5M-uYPdmVWNPTbhSbSUxpdeJ0MDDxrV9kHWjDdyOLdvZDWBpkwEQvEi3N5W-xzd36xs&usqp=CAU" alt="unity" width="40" height="40"/> 
-  </a>  
-  
 </p>
 
 
