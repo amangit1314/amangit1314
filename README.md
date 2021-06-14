@@ -75,8 +75,8 @@
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5M-uYPdmVWNPTbhSbSUxpdeJ0MDDxrV9kHWjDdyOLdvZDWBpkwEQvEi3N5W-xzd36xs&usqp=CAU" alt="unity" width="40" height="40"/> 
   </a>  
-  <a href="https://www.sqlite.com/" target="_blank"> 
-    <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="sql" width="40" height="40"/> 
   </a>
 </p>
 
