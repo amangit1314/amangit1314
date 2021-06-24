@@ -59,9 +59,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="sql" width="40" height="40"/> 
   </a>                                                                                                                                                                             <a href="https://www.sql.com/" target="_blank"> 
     <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
   </a>
