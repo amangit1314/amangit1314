@@ -6,6 +6,16 @@
 <p align="left"> 
   <a href="https://twitter.com/soni07_aman" target="blank"><img src="https://img.shields.io/twitter/follow/soni07_aman?logo=twitter&style=for-the-badge" alt="soni07_aman" /></a>
   <a href="https://github.com/gitaman8481"><img src="https://img.shields.io/github/followers/gitaman8481?logo=GitHub&style=for-the-badge"alt="gitaman8481" /></a> 
+  <br>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="	https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
 </p>
 
 - 🔭 I’m currently working on **Flutter Developer**
