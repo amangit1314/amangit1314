@@ -4,18 +4,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481" alt="gitaman8481" /></a> </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/soni07_aman" target="blank"><img src="https://img.shields.io/twitter/follow/soni07_aman?logo=twitter&style=for-the-badge" alt="soni07_aman" /></a>
-  <a href="https://github.com/gitaman8481"><img src="https://img.shields.io/github/followers/gitaman8481?logo=GitHub&style=for-the-badge"alt="gitaman8481" /></a> 
-  <br>
+
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://www.instagram.com/"><img src="	https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
 </p>
 
 - 🔭 I’m currently working on **Flutter Developer**
@@ -31,14 +25,13 @@
 - ⚡ Fun fact **You know Dhoni & who get runout at both of his debut and last innings .**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/soni07_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soni07_aman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/aman-soni1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aman-soni1" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_b0i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman_b0i" height="30" width="40" /></a>
-<a href="https://web.telegram.org/#/im><img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="soni07_aman" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/channel/UCBq0CR3g1oYIHnML9M1wRYw/">
-  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="soni07_aman" height="30" width="40" />
+<p align="left"> 
+
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,4 +79,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&" alt="gitaman8481" />
 </p>
+<p align="left"> 
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+</p>                                                                                  
 "# gitaman8481" 
