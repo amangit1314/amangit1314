@@ -12,15 +12,15 @@
   <a href="https://open.spotify.com/user/31shbshxmfkbmkwwzmjossk2tiqy"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently working on **Flutter Developer**
+- 👨‍🔬 I’m currently working on **Flutter Developer**
 
-- 🌱 I’m currently learning **Flutter Industrial Work.**
+- 👨‍💻 I’m currently learning **Flutter Industrial Work.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
-- 💬 Ask me about **Java, Flutter, Firebase, DSA, Django, MongoDB, API Development, Android Development.**
+- 💬 Ask me about **Java, Flutter, Firebase, DSA, Django, Android Development.**
 
-- 📫 How to reach me **gitaman8481@gmail.com**
+- 📧 How to reach me **gitaman8481@gmail.com**
 
 - ⚡ Fun fact **You know Dhoni & who get runout at both of his debut and last innings .**
 
