@@ -41,7 +41,8 @@
   </a>  
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>                                                                                                
+  </a>  
+  <a href="" target="_blank"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" /> </a>
   <a href="https://dart.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a>  
