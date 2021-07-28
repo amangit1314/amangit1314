@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481" alt="gitaman8481" /></a> </p>
 
-- 👨‍🔬 I’m currently working on **Flutter Developer**
+- 👨‍🔬 I’m currently working on **My Portfolio Websitet**
 
-- 👨‍💻 I’m currently learning **Flutter Industrial Work.**
+- 👨‍💻 I’m currently learning **Flutter and Front-end Industrial Work.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gitaman8481](https://github.com/gitaman8481).**
 
-- 💬 Ask me about **Java, Flutter, Firebase, DSA, Django, Android Development.**
+- 💬 Ask me about **Java, Data Structure's & Algorithm's in Java, Flutter and Android Development.**
 
 - 📧 How to reach me **gitaman8481@gmail.com**
 
-- ⚡ Fun fact **You know Dhoni & who get runout at both of his debut and last innings .**
+- ⚡ Fun fact **You know Dhoni got run-out at both of his debut and last inning's .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
