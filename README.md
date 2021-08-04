@@ -61,6 +61,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
   <a href="https://www.python.org"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a> 
   <a href="" target="_blank"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" /> </a>
+  <a href="" target="_blank"> <img src = "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> </a>
  
 </p>
 
