@@ -6,7 +6,7 @@
 - 👨‍🔬 I’m currently working on **My Portfolio Websitet**
 
 - 👨‍💻 I’m currently learning **Flutter and Front-end Industrial Work.**
-- 
+
 - 💬 Ask me about **Java, Data Structure's & Algorithm's in Java, Flutter and Android Development.**
 
 - 📧 How to reach me **gitaman8481@gmail.com**
