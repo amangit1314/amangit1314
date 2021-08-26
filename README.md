@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481" alt="gitaman8481" /></a> </p>
 
-- 👨‍🔬 I’m currently working on **My Portfolio Websitet**
-
-- 👨‍💻 I’m currently learning **Flutter and Front-end Industrial Work.**
-
-- 💬 Ask me about **Java, Data Structure's & Algorithm's in Java, Flutter and Android Development.**
-
 - 📧 How to reach me **gitaman8481@gmail.com**
 
-- ⚡ Fun fact **You know Dhoni got run-out at both of his debut and last inning's .**
+- 👨‍💻 I’m currently learning **Full  Stack Development.**
+ 
+- 👨‍🔬 I’m currently working on **My Portfolio Websitet**
+
+- 💬 Ask me about **Data Structure's & Algorithm's .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -22,8 +20,8 @@
   <a href="https://dribbble.com/amansoni53453"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href="https://leetcode.com/gitaman8481/" /><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
     
-  <a href="" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/31shbshxmfkbmkwwzmjossk2tiqy"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<!--   <a href="" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31shbshxmfkbmkwwzmjossk2tiqy"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> -->
   
 </p>
 
@@ -60,11 +58,6 @@
   <a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee" alt="CSS3"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
-  
-  <a href="https://www.python.org"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a> 
-  <a href="" target="_blank"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" /> </a>
-  <a href="" target="_blank"> <img src = "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> </a>
- 
 </p>
 
 
@@ -80,24 +73,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&" alt="gitaman8481" />
 </p>
 
-
-  <!-- Sample of code generated --> 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="RGQ8NSYPA59FL">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
-
 <p align="left"> 
   <h3 align="left">Support me on:</h3>
-  <a href="paypal.me/AmanSoniChuru "><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  <a href="paypal.me/AmanSoniChuru "><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
   <a href="paypal.me/AmanSoniChuru "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="paypal.me/AmanSoniChuru "><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
 </p>  
 
 "# gitaman8481" 
