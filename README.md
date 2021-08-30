@@ -73,9 +73,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&" alt="gitaman8481" />
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <h3 align="left">Support me on:</h3>
   <a href="paypal.me/AmanSoniChuru "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>  
+</p>   -->
 
 "# gitaman8481" 
