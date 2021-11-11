@@ -97,6 +97,7 @@
 </p>
 
 
+<h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
 </p>
@@ -113,5 +114,3 @@
   <h3 align="left">Support me on:</h3>
   <a href="https://www.buymeacoffee.com/amanSoni "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>  
-
-"# gitaman8481" 
