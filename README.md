@@ -97,18 +97,22 @@
 </p>
 
 
-<h3 align="left">GitHub Stats:</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+ 
 </p>
 
 <p>&nbsp;
+ <h3 align="left">Most Used Languages:</h3>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en" alt="gitaman8481" />
-</p>
-
-<p>
+  <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&theme=shades-of-purple" alt="gitaman8481" />
 </p>
+</p>
+
+
 
 <p align="left"> 
   <h3 align="left">Support me on:</h3>
