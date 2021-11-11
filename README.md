@@ -63,15 +63,15 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitaman8481&show_icons=true&locale=en" alt="gitaman8481" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en" alt="gitaman8481" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&" alt="gitaman8481" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&theme=shades-of-purple" alt="gitaman8481" />
 </p>
 
 <p align="left"> 
