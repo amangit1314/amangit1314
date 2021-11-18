@@ -81,16 +81,16 @@
 <p>&nbsp;
   <p>
    <h3 align="left">Most Used Languages:</h3>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
   </p>
   <br>
   <br>
   <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitaman8481&theme=shades-of-purple&show_icons=true&locale=en" alt="gitaman8481" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />
   </p>
   <p>
     <h3 align="left">Readme Stats:</h3>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitaman8481&theme=shades-of-purple" alt="gitaman8481" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangit1314&theme=shades-of-purple" alt="amangit1314" />
   </p>
 </p>
 
