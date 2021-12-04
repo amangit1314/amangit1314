@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=shades-of-purple" alt="myster10ushu1k" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481&theme=tokyonight" alt="gitaman8481" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481&theme=tokyonight" alt="" /></a> </p>
 
 - 📧 How to reach me **gitaman8481@gmail.com**
 
