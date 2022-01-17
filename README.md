@@ -90,6 +90,9 @@
   </p>
 </p>
 
+<h3> Watch by contribution graph get eaten by the snake 🐍 </h3>
+<p><<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />/p>
+
 <p align="left"> 
   <h3 align="left">Support me on:</h3>
   <a href="https://www.buymeacoffee.com/amanSoni "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
