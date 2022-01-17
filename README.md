@@ -91,7 +91,7 @@
 </p>
 
 <h3> Watch by contribution graph get eaten by the snake 🐍 </h3>
-<p><<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />/p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />/p>
 
 <p align="left"> 
   <h3 align="left">Support me on:</h3>
