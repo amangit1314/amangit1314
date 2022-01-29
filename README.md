@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm  Aman Soni </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm  Aman Soni </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=shades-of-purple" alt="myster10ushu1k" /> </p>
@@ -76,7 +76,7 @@
 
 <p>&nbsp;
   <p>
-   <h3 align="left">Most Used Languages:</h3>
+   <h3 align="left">Most Used Languages: </h3>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
   </p>
   <br>
@@ -94,6 +94,6 @@
 <img src="https://github.com/amangit1314/amangit1314/blob/output/github-contribution-grid-snake.svg" />
 
 <p align="left"> 
-  <h3 align="left">Support me on:</h3>
+  <h3 align="left">Support me please on:</h3>
   <a href="https://www.buymeacoffee.com/amanSoni "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>  
