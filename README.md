@@ -3,8 +3,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=onedark" alt="amangit1314" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?amangit1314=ryo-ma&theme=onedark" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="amangit1314" /> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=juicyfresh" alt="" /></a> </p>
 
 - 📧 How to reach me **gitaman8481@gmail.com**
 
