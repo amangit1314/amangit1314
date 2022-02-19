@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm  Aman Soni </h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=shades-of-purple" alt="myster10ushu1k" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitaman8481&theme=tokyonight" alt="" /></a> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=onedark" alt="amangit1314" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?amangit1314=ryo-ma&theme=onedark" alt="" /></a> </p>
 
 - 📧 How to reach me **gitaman8481@gmail.com**
 
