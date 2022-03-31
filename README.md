@@ -8,7 +8,7 @@
 
 - 📧 How to reach me **gitaman8481@gmail.com**
 
-- 👨‍💻 I’m currently learning **Full  Stack Development.**
+- 👨‍💻 I’m currently working on **Full Stack Mobile Application Development.**
  
 - 👨‍🔬 I’m currently working on **My Portfolio Websitet**
 
