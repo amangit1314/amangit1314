@@ -18,7 +18,6 @@
 <p align="left"> 
   <a href="https://www.linkedin.com/in/aman-soni1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://twitter.com/soni07_aman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.codingninjas.com/codestudio/profile/f0983f43-62fd-46af-b605-17822ecee46b" /><img src="https://www.codingninjas.com/landing/wp-content/uploads/2022/01/codestudio-by-CN-white-logo-7.png" height="20" width="80"/></a>
   <a href="https://dribbble.com/amansoni53453"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href="https://leetcode.com/MysteriousHulk/" /><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://linktr.ee/MysteriousHulk" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
