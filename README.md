@@ -69,6 +69,8 @@
     <img src="https://p7.hiclipart.com/preview/396/90/545/postgresql-database-logo-computer-icons-replication-software-developer.jpg"" alt="nodejs" width="40" height="40"/>
     </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://trufflesuite.com/docs/truffle/" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="postman" width="40" height="40"/> </a> 
+        <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/img/ganache-logo-dark.svg" alt="postman" width="40" height="40"/> </a> 
 
 
 <!--   <br> -->
