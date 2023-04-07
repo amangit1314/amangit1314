@@ -89,15 +89,11 @@
 </p>
 
   ## Most used languages
-  <p>
+  
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
-  </p>
-  <br>
-  <br>
-  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />
-  </p>
-</p>
+
+
 
   ## Readme Stats
   <p>
@@ -106,16 +102,15 @@
                                                                                                                                           
                                                                                                                                           
 ## Snake Animation
-<h3> Watch by contribution graph get eaten by the snake 🐍 </h3> 
+                                                                                                                                          
+Watch my contribution graph get eaten by the snake 🐍 
 <img src="https://github.com/amangit1314/amangit1314/blob/output/github-contribution-grid-snake.svg" />
                                                                                                    
-## Featured Web Projects -                                                                                                 
-<p align="left">
-  - <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page/ ">Show Branding Page Ui </a>
-  - <a href="https://amangit1314.github.io/watches_web/ "> Watches Website Ui </a>
-</p>
+## Featured Web Projects -
+                                                                                                    
+- <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page/ ">Show Branding Page Ui </a>
+- <a href="https://amangit1314.github.io/watches_web/ "> Watches Website Ui </a>
 
 ## Please support me on - 
-<p align="left"> 
+                                                       
   <a href="https://www.buymeacoffee.com/amanSoni "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>  
