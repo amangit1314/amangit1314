@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="amangit1314" /> </p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=juicyfresh" alt="" /></a> </p>
 
+## About Me
+
 - 📧 How to reach me **gitaman8481@gmail.com**
 
 - 👨‍💻 I’m currently working on **Full Stack Mobile Application Development.**
@@ -14,7 +16,8 @@
 
 - 💬 Ask me about **Data Structure's & Algorithm's .**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## Connect with me
 <p align="left"> 
   <a href="https://www.linkedin.com/in/aman-soni1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://twitter.com/soni07_aman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -23,7 +26,7 @@
   <a href="https://linktr.ee/MysteriousHulk" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://www.svgrepo.com/show/217740/android.svg" alt="android" width="40" height="40"/> 
@@ -69,7 +72,8 @@
 
 
 <!--   <br> -->
-  <h3 align="left">Languages:</h3>
+## Languages
+<!--   <h3 align="left">Languages:</h3> -->
   <a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a>
   <a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
@@ -82,15 +86,8 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
 </p>
 
-
-
-<p>
- 
-</p>
-
-<p>&nbsp;
+  ## Most used languages
   <p>
-   <h3 align="left">Most Used Languages: </h3>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
   </p>
   <br>
@@ -98,22 +95,25 @@
   <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />
   </p>
-  <p>
-    <h3 align="left">Readme Stats:</h3>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangit1314&theme=shades-of-purple" alt="amangit1314" />
-  </p>
 </p>
 
+  ## Readme Stats
+  <p>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangit1314&theme=shades-of-purple" alt="amangit1314" />
+  </p>
+                                                                                                                                          
+                                                                                                                                          
+## Snake Animation
 <h3> Watch by contribution graph get eaten by the snake 🐍 </h3> 
 <img src="https://github.com/amangit1314/amangit1314/blob/output/github-contribution-grid-snake.svg" />
-
+                                                                                                   
+## Featured Web Projects -                                                                                                 
 <p align="left">
-  <h3 align="left">Feature Web Projects:</h3>
   - <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page/ ">Show Branding Page Ui </a>
   - <a href="https://amangit1314.github.io/watches_web/ "> Watches Website Ui </a>
 </p>
 
+## Please support me on - 
 <p align="left"> 
-  <h3 align="left"> Support me please on: </h3>
   <a href="https://www.buymeacoffee.com/amanSoni "><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>  
