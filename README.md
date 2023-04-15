@@ -26,6 +26,21 @@
   <a href="https://linktr.ee/MysteriousHulk" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/gitaman8481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gitaman8481" height="30" width="40" /></a>
+<a href="https://dev.to/amangit1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amangit1314" height="30" width="40" /></a>
+<a href="https://twitter.com/soni07_aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soni07_aman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-soni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-soni1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13362693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13362693" height="30" width="40" /></a>
+<a href="https://codesandbox.com/amangit1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amangit1314" height="30" width="40" /></a>
+<a href="https://instagram.com/flutter.rising.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.rising.dev" height="30" width="40" /></a>
+<a href="https://dribbble.com/amansoni53453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="amansoni53453" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amansoni53453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amansoni53453" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mysterioushulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mysterioushulk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amansoni53453/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/amansoni53453/practice" height="30" width="40" /></a>
+</p>
+
 ## Languages and tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
