@@ -91,8 +91,10 @@
          <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
          <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR10aYKmAHDRLS4UJpE6VXCbjFB3M-cHa_BxQBHZ8&s" alt="metamask" width="40" height="40"/> </a>
+   <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket.io" width="40" height="40"/> </a>
+   <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma.io" width="40" height="40"/> </a>
  
-
 <!--   <br> -->
 ## Languages
   <a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a>
