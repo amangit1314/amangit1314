@@ -1,11 +1,6 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Aman Soni </h1>
 <h3 align="center">A passionate developer from India</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="amangit1314" /> </p>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=juicyfresh" alt="" /></a> </p>
-
 ## About Me
 
 - 📧 How to reach me **gitaman8481@gmail.com**
@@ -108,18 +103,27 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Sql-FFD43B?style=for-the-badge&logo=sql&logoColor=darkgreen" alt="sql"/></a>
 </p>
 
-  ## Most used languages
-  
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />
 
+   
+## 🏆 GitHub Trophies
+<img src="https://komarev.com/ghpvc/?username=myster10ushu1k&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="amangit1314" /> </p>
+ <a href="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=amangit1314&theme=juicyfresh" alt="" /></a> 
 
-
-  ## Readme Stats
+## 📊 Readme Stats
   <p>
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangit1314&theme=shades-of-purple" alt="amangit1314" />
   </p>
-                                                                                                                                          
+
+ ## 🌏 Most Used Languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
                                                                                                                                           
 ## Snake Animation
                                                                                                                                           
