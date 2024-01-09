@@ -55,7 +55,7 @@
   <a href="https://redux.js.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="no-referrer"> <img src="https://cdn.sanity.io/images/81pocpw8/production/a96c1f53f4031bb15e3f8537bda5ac0294e95fce-180x180.svg?h=80&fit=max&auto=format" alt="next" width="40" height="40"/> </a> 
  <a href="https://www.tailwindcss.com" target="_blank" rel="no-referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="c" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="no-referrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="40" height="40"/> </a> 
+<!--  <a href="https://expressjs.com" target="_blank" rel="no-referrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="40" height="40"/> </a>  -->
  <a href="https://nodejs.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a >
  <a href="https://expressjs.com" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
@@ -64,12 +64,12 @@
   <a href="https://kubernetes.io" target="_blank" rel="no-referrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest-js" width="40" height="40"/> </a> 
   <a href="https://metamask.io/" target="_blank" rel="no-referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket.io" width="40" height="40"/> </a>
-  <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="no-referrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKL1r5gSgp6EJp3wLPk9m6-wy8zl59ioHhmEUUdwbI3eyQcjgG" alt="postman" width="40" height="40"/> </a> 
+<!--   <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="no-referrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKL1r5gSgp6EJp3wLPk9m6-wy8zl59ioHhmEUUdwbI3eyQcjgG" alt="postman" width="40" height="40"/> </a>  -->
   <a href="https://metamask.io/" target="_blank" rel="no-referrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma.io" width="40" height="40"/> </a>
-  <a href="https://trufflesuite.com/docs/truffle/" target="_blank" rel="no-referrer"> <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="no-referrer"> <img src="https://trufflesuite.com/img/ganache-logo-dark.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://soliditylang.org/" target="_blank" rel="no-referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/579px-Solidity_logo.svg.png?20201202112837" alt="python" width="25" height="40"/> </a> 
-  <a href="https://metamask.io/" target="_blank" rel="no-referrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR10aYKmAHDRLS4UJpE6VXCbjFB3M-cHa_BxQBHZ8&s" alt="meta mask" width="40" height="40"/> </a>
+<!--   <a href="https://trufflesuite.com/docs/truffle/" target="_blank" rel="no-referrer"> <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="postman" width="40" height="40"/> </a>  -->
+<!--   <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="no-referrer"> <img src="https://trufflesuite.com/img/ganache-logo-dark.svg" alt="postman" width="40" height="40"/> </a>  -->
+<!--   <a href="https://soliditylang.org/" target="_blank" rel="no-referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/579px-Solidity_logo.svg.png?20201202112837" alt="python" width="25" height="40"/> </a>  -->
+<!--   <a href="https://metamask.io/" target="_blank" rel="no-referrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR10aYKmAHDRLS4UJpE6VXCbjFB3M-cHa_BxQBHZ8&s" alt="meta mask" width="40" height="40"/> </a> -->
  
 ## Languages
   <a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a>
