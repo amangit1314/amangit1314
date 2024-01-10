@@ -91,10 +91,6 @@
   <p>
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangit1314&theme=shades-of-purple" alt="amangit1314" />
   </p>
-  
-## Snake Animation -                                                                                                                
-Watch my contribution graph get eaten by the snake 🐍 
-<img src="https://github.com/amangit1314/amangit1314/blob/output/github-contribution-grid-snake.svg" />
                                                                                                    
 ## Featured Web Projects -                                                                          
 - <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page/ ">Show Branding Page Ui </a>
