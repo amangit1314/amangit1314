@@ -109,6 +109,19 @@
 <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/></a> -->
 </p>
 
+## Miscellaneous
+<p align="left>
+
+<a> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> </img> </a>
+<a> <img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"> </img> </a>
+<a href="https://cpp.org" target="_blank"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/TypesScript" target="_blank"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" /> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="react-query"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a>
+</p>
+
 ## Most used languages
 
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
