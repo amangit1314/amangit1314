@@ -111,11 +111,11 @@
 </p>
 
 ## Miscellaneous
-<p align="left>
-<a href="" > <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt=""Rabbit Mq> </img> </a>
+<p align="left">
+<!-- <a href="" > <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt=""Rabbit Mq> </img> </a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/TypesScript" target="_blank"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" /> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/></a>
+<!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/></a> -->
 
 </p>
 
