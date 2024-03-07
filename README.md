@@ -23,7 +23,6 @@
   <a href="https://instagram.com/flutter.rising.dev"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
   <a href="https://www.hackerrank.com/amansoni53453"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
   "/> </a>
-  <a href="https://stackoverflow.com/users/13362693"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
 </p>
 <!--   <a href="[https://stackoverflow.com/users/13362693](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amansoni53453/practice)"> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/> </a> -->
 
@@ -33,6 +32,7 @@
   <a href="https://codesandbox.com/amangit1314"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/> </a>
   <a href="https://dev.to/amangit1314"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> </a>
   <a href=""> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
+  <a href="https://stackoverflow.com/users/13362693"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
 </p>
 
 ## Mobile Dev
