@@ -18,29 +18,31 @@
   <a href="https://dribbble.com/amansoni53453"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href="https://www.leetcode.com/mysterioushulk" /><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://linktr.ee/MysteriousHulk" /><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a href="https://codepen.io/gitaman8481"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a>
-  <a href="https://codesandbox.com/amangit1314"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/> </a>
   <a href="https://linkedin.com/in/aman-soni1"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://discord.com"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a>
   <a href="https://instagram.com/flutter.rising.dev"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
   <a href="https://www.hackerrank.com/amansoni53453"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
   "/> </a>
+  <a href="https://stackoverflow.com/users/13362693"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
+</p>
+<!--   <a href="[https://stackoverflow.com/users/13362693](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amansoni53453/practice)"> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/> </a> -->
+
+## Blogs
+<p align="left">
+  <a href="https://codepen.io/gitaman8481"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a>
+  <a href="https://codesandbox.com/amangit1314"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/> </a>
   <a href="https://dev.to/amangit1314"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> </a>
   <a href=""> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
-  <a href="https://stackoverflow.com/users/13362693"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
-  <a href="[https://stackoverflow.com/users/13362693](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amansoni53453/practice)"> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/> </a>
-
 </p>
 
 ## Mobile Dev
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> </img>
- <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"> </img>
- <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> <img/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> </img>
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"> </img>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> <img/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 
 ## Web Frontend
