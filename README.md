@@ -129,8 +129,10 @@
 
 ## Featured Web Projects -
 
-- <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page/ ">Show Branding Page Ui </a>
-- <a href="https://amangit1314.github.io/watches_web/ "> Watches Website Ui </a>
+- <a href="https://merchandise-store.vercel.app"> SnapCart </a>
+- <a href="https://next-level-portfolio.vercel.app"> Portfolio </a>
+- <a href="https://amangit1314.github.io/watches_web"> Watches Website Ui </a>
+- <a href="https://amangit1314.github.io/Shoe-Brand-Landing-Page ">Shoe Brand Landing Hero Section Ui </a>
 
 ## Please support me on -
 
