@@ -100,8 +100,9 @@
 
 ## Most used languages
 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="gitaman8481" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" />
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="amangit1314" /> -->
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangit1314&theme=shades-of-purple&show_icons=true&locale=en" alt="amangit1314" /> -->
+<img align="center" src="https://github-readme-stats-livid-two-56.vercel.app/api/top-langs?username=amangit1314&theme=shades-of-purple&layout=compact" alt="amangit1314" />
 
 ## Readme Stats
 
