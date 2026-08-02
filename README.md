@@ -83,25 +83,25 @@ Course marketplace with instructor/student dashboards, Stripe payments, and Supa
 LLM tool-calling · RAG pipelines · Agent design · Prompt engineering · Model routing/fallback · MCP
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,typescript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,javascript,typescript,graphql,go"/>
 </p>
 
 **Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,dynamodb,redis,prisma"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,dynamodb,redis,prisma,mongodb,sqlite"/>
 </p>
 
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vite,vitest"/>
 </p>
 
 **Cloud & Infra**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel,kafka,grafana,prometheus,rabbitmq,nginx,supabase,firebase,terraform,tensorflow"/>
 </p>
 
 ---
